@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" width="917" height="344">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #f4f4f4;stroke: #f4f4f4;stroke-miterlimit:10;stroke-width: 2 } 
+		.t1 { font-size: 150px;fill: #4e5ca6;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.t2 { font-size: 162px;fill: #fdfdff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<path id="Layer copy" class="s0" d="m112.9 66.5h150.5c49.2 0 89.1 39.9 89.1 89.1v150.5c0 49.2-39.9 89.1-89.1 89.1h-150.5c-49.2 0-89.1-39.9-89.1-89.1v-150.5c0-49.2 39.9-89.1 89.1-89.1z"/>
+	<text id="M" style="transform: matrix(1.666,-0.025,.025,1.666,-19.94,124.664);paint-order:stroke fill markers;stroke: #000000;stroke-width: 8;stroke-linejoin: round;" >
+		<tspan x="59.7" y="114" class="t1">M</tspan><tspan  y="114" class="t1">
+</tspan>
+	</text>
+	<text id="Mohamad" style="opacity: .9;transform: matrix(1,0,0,1,767.5,282.359)" >
+		<tspan x="-400.4" y="0" class="t2">M</tspan><tspan  y="0" class="t2">o</tspan><tspan  y="0" class="t2">h</tspan><tspan  y="0" class="t2">a</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">a</tspan><tspan  y="0" class="t2">d</tspan><tspan  y="0" class="t2">
+</tspan>
+	</text>
+</svg>
