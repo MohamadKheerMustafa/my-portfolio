@@ -21,12 +21,12 @@ function App() {
 	return (
 		<AnimatePresence>
 			<div className=" bg-secondary-light dark:bg-primary-dark transition duration-300">
-				<Router>
+				<Router basename={process.env.PUBLIC_URL}>
 					<ScrollToTop />
 					<AppHeader />
 					<Suspense fallback={""}>
 						<Routes>
-							<Route path="/my-portfolio" element={<Home />} />
+							<Route path="/" element={<Home />} />
 							<Route path="projects" element={<Projects />} />
 							<Route
 								path="projects/single-project"
